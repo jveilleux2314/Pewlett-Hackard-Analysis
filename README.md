@@ -2,7 +2,7 @@
 
 Overview:
 
-The purpose of this project was to break down tons of data pertaining to employees, departments, date of employment, dates of retirement, and projected openings available when other employees hit retirement. This analysis is very powerful because it allows the company to strategically plan how to hand the mass amounts of employees that are projected to retire so that the company isn't left with major postions open and no manager to run their department or employees to keep their business running either.
+The purpose of this project was to break down tons of data pertaining to employees, departments, date of employment, dates of retirement, and projected openings available when other employees hit retirement. This analysis is very powerful because it allows the company to strategically plan how to handle the mass amounts of employees that are projected to retire so that the company isn't left with major postions open and no manager to run their department or employees to keep their business running either.
 
 PROCESS:
 
