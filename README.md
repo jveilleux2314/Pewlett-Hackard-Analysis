@@ -26,12 +26,13 @@ Results:
 
  
 Summary:
-Comparing the number of employees per department and the lack of managers to each department, not to mention there are 90,000+ employees retiring in total with a miniscule 1,549 eligible for mentorship. 
+
+Observing the number of employees (thousands) per department (9) and the lack of managers (5 total managers) - also there are 90,000+ employees retiring in total with a miniscule 1,549 eligible for mentorship. 
 
 <img width="244" alt="Screen Shot 2021-04-22 at 12 10 54 AM" src="https://user-images.githubusercontent.com/78769464/115658897-4735cb00-a2ff-11eb-81e8-de264aaa3c7e.png">
 <img width="394" alt="Screen Shot 2021-04-22 at 12 11 08 AM" src="https://user-images.githubusercontent.com/78769464/115658901-4ac95200-a2ff-11eb-8b67-e046e5cfd761.png">
 
-Although, the concept of having the retiring employees mentor the employees who are going to fill their spot is ideal - it is not practical. This concept is dependant on all eligible employees to stay working and not completely retire. This also on the other hand assumes all employees that hit retirement age , are actually going to retire and leave. I think seperating the retiring employess by who is going to retire sooner rather than later and offer (if applicable) those employees management/supervisor positions to give them an insentive to stay and properly train those moving up in the company. 
+Although, the concept of having the retiring employees mentor the employees who are going to fill their spot is ideal - it is not practical. This concept is dependant on all eligible employees to stay working and not completely retire. This also on the other hand assumes all employees that hit retirement age , are actually going to retire and leave. I think seperating the retiring employess by who are going to retire sooner rather than later and offer (if applicable) those employees management/supervisor positions to give them an insentive to stay and properly train those moving up in the company. 
 
 Potentially creating workshops so that one mentor could potentially teach multiple employees at a time to move into higher more desireable positions is also a good idea - it allows a more productive use of one mentor. 
 
